@@ -1,0 +1,29 @@
+_repo: Germany-The-Next-Republic-_15770
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ackerman, Carl W. (Carl William)
+    alias: Ackerman, Carl William
+    birthdate: 1890
+    deathdate: 1970
+    gutenberg_agent_id: '6275'
+    url: http://www.gutenberg.org/2009/agents/6275
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2005-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15770'
+  lccn: '17017989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Germany'
+- !lcc 'D501'
+title: Germany, The Next Republic?
+url: http://www.gutenberg.org/ebooks/15770
